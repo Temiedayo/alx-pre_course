@@ -1,1 +1,1 @@
-My second commit
+Today is a new day
